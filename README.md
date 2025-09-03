@@ -15,7 +15,7 @@
 - <a href="#solution-approach">🧪 Solution Approach</a>  
 - <a href="#business-impact">📈 Business Impact</a>  
 - <a href="#learning-skills">📚 Learnings & Skills Demonstrated </a>  
-- <a href="#future-enhancements">🔮 Future Enhancements</a> 🔚 Conclusion 
+- <a href="#future-enhancements">🔮 Future Enhancements</a>
 - <a href="#conclusion">🔚 Conclusion</a>
 - <a href="#contact">📬 Connect with Me</a> 
 - <a href="#project-overview">🖼️ Project Overview</a> 
