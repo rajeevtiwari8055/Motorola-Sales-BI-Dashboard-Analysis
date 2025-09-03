@@ -18,7 +18,7 @@
 - <a href="#future-enhancements">🔮 Future Enhancements</a>
 - <a href="#conclusion">🔚 Conclusion</a>
 - <a href="#contact">📬 Connect with Me</a> 
-- <a href="#project-overview">🖼️ Project Overview</a> 
+- <a href="#project-snapshot">🖼️ Project Snapshot</a> 
 
 ---
 
@@ -209,7 +209,7 @@ By incorporating real-time metrics and intuitive visuals, this project becomes a
 
 ---
 
-## <span id="project-overview">🖼️ Project Overview</span>     
+## <span id="project-snapshot">🖼️ Project Snapshot</span>     
 
 ### 🖼️ Final Dashboard
 ![Motorola Sales Dashboard Analysis](Motorola%20Sale%20Dashboard%20Analysis.png)
