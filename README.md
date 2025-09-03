@@ -5,7 +5,7 @@
 ## 📑 Table of Contents
 
 - <a href="#project-overview">🧩 Project Overview</a>  
-- <a href="#dataset-context">🏢 Project Context</a>  
+- <a href="#project-context">🏢 Project Context</a>  
 - <a href="#project-objective">🎯 Project Objective</a>  
 - <a href="#target-audience">🔍 Target Audience</a>  
 - <a href="#business-problem">🛑 Business Problems Addressed</a>  
