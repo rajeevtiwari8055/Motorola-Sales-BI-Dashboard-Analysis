@@ -1,17 +1,41 @@
 ## 📱 Motorola-Sales-BI-Dashboard-Analysis
+
 ---
 
-## 🧩 Project Overview
+## 📑 Table of Contents
+
+- <a href="#project-overview">🧩 Project Overview</a>  
+- <a href="#dataset-context">🏢 Project Context</a>  
+- <a href="#project-objective">🎯 Project Objective</a>  
+- <a href="#target-audience">🔍 Target Audience</a>  
+- <a href="#business-problem">🛑 Business Problems Addressed</a>  
+- <a href="#key-insights">💡 Key Features & Insights</a>  
+- <a href="#data-description">📦 Data Description</a>  
+- <a href="#tools-used">🛠️ Tools & Technologies Used </a>  
+- <a href="#solution-approach">🧪 Solution Approach</a>  
+- <a href="#business-impact">📈 Business Impact</a>  
+- <a href="#learning-skills">📚 Learnings & Skills Demonstrated </a>  
+- <a href="#future-enhancements">🔮 Future Enhancements</a> 🔚 Conclusion 
+- <a href="#conclusion">🔚 Conclusion</a>
+- <a href="#contact">📬 Connect with Me</a> 
+- <a href="#project-overview">🖼️ Project Overview</a> 
+
+---
+
+## <span id="project-overview">🧩 Project Overview</span>  
+
 This interactive **Power BI Sales Dashboard** is designed for **Motorola** to analyze sales data across **cities**, **mobile models**, **payment methods**, and **customer ratings**. As my **first Power BI project**, it showcases the integration of **key KPIs**, **DAX measures**, and **dynamic filters** to extract actionable insights. The dashboard highlights **total sales**, **quantity sold**, **average transactions**, and **performance trends by month and day**. With **intuitive visuals** and **interactive components**, it empowers decision-makers to make **data-driven choices**. This project serves as a **strong foundation** for advancing into more complex analytics solutions.
 
 ---
 
-## 🏢 Project Context  
+## <span id="project-context">🏢 Project Context</span>  
+
 In a highly competitive smartphone market, Motorola needed a robust sales intelligence tool to understand where, when, and how their products were performing. This project was developed to bridge the gap between raw data and strategic insights, offering a detailed breakdown of sales performance to guide future growth.
 
 ---
 
-## 🎯 Objectives  
+## <span id="project-objective">🎯 Project Objective</span>  
+
 - To visualize and analyze Motorola's sales performance using key business indicators.  
 - To identify sales trends by city, time, and mobile models.  
 - To understand customer satisfaction through ratings.  
@@ -20,7 +44,8 @@ In a highly competitive smartphone market, Motorola needed a robust sales intell
 
 ---
 
-## 🔍 Target Audience  
+## <span id="target-audience">🔍 Target Audience </span>  
+
 - **Sales Managers** – For monitoring targets and performance.  
 - **Marketing Teams** – To identify regional strengths and consumer trends.  
 - **Inventory Planners** – For demand forecasting and stock optimization.  
@@ -28,7 +53,8 @@ In a highly competitive smartphone market, Motorola needed a robust sales intell
 
 ---
 
-## 🛑 Business Problems Addressed  
+## <span id="business-problem">🛑 Business Problems Addressed </span>  
+
 - No centralized system to view sales quantity, revenue, and transactions in real-time.  
 - Inability to measure city-wise and brand/model-wise performance effectively.  
 - Lack of customer sentiment visibility via ratings.  
@@ -37,7 +63,7 @@ In a highly competitive smartphone market, Motorola needed a robust sales intell
 
 ---
 
-## 💡 Key Features & Insights
+## <span id="key-insights">💡 Key Features & Insights</span>  
 
 ### 1. 📌 KPI Cards  
 - **Total Sales**: Overall revenue across all Motorola products.  
@@ -79,7 +105,8 @@ In a highly competitive smartphone market, Motorola needed a robust sales intell
 
 ---
 
-## 📦 Data Description  
+## <span id="data-description">📦 Data Description</span>  
+
 The dataset contains over **5,000 records** from Motorola’s sales channels with the following fields:
 
 - Date of Transaction  
@@ -96,7 +123,8 @@ The dataset contains over **5,000 records** from Motorola’s sales channels wit
 
 ---
 
-## 🛠️ Tools & Technologies Used  
+## <span id="tools-used">🛠️ Tools & Technologies Used</span>  
+
 - **Power BI** – For dashboard development and data visualization.  
 - **Power Query** – For ETL (Extract, Transform, Load) operations.  
 - **DAX (Data Analysis Expressions)** – For calculated KPIs and business logic.  
@@ -104,7 +132,7 @@ The dataset contains over **5,000 records** from Motorola’s sales channels wit
 
 ---
 
-## 🧪 Solution Approach
+## <span id="solution-approach">🧪 Solution Approach</span>  
 
 ### 🔹 Data Cleaning  
 - Removed blanks, duplicates, invalid dates, and inconsistent values.  
@@ -131,7 +159,8 @@ Defined custom measures:
 
 ---
 
-## 📈 Business Impact  
+## <span id="business-impact">📈 Business Impact</span>  
+
 - Stakeholders now have **real-time visibility** into performance metrics.  
 - **Sales strategies** can be tailored based on location, model, and time.  
 - **Customer feedback** is instantly actionable.  
@@ -140,7 +169,8 @@ Defined custom measures:
 
 ---
 
-## 📚 Learnings & Skills Demonstrated  
+## <span id="learning-skills">📚 Learnings & Skills Demonstrated</span>  
+
 - Power BI Advanced Visualization Techniques  
 - Power Query Data Transformation  
 - DAX Calculated Columns and Measures  
@@ -150,15 +180,9 @@ Defined custom measures:
 
 ---
 
-## 🔚 Conclusion  
-This **Motorola Sales Dashboard** bridges the gap between raw sales data and strategic decision-making. With a clean and interactive layout, it offers a full-circle view of operations — from product performance and customer sentiment to regional trends and transaction insights.
+## <span id="future-enhancements">🔮 Future Enhancements</span>  
 
-By incorporating real-time metrics and intuitive visuals, this project becomes a critical tool for sales optimization, campaign targeting, and customer-focused growth.
-
----
-
-## ✅ Future Enhancements  
-- 🔮 Sales Forecasting Models using AI/ML integration  
+- ✅ Sales Forecasting Models using AI/ML integration  
 - 📦 Inventory-Level Dashboard to show stock vs sales  
 - 👤 Customer Profile Analytics for segmentation  
 - 📢 Campaign Tracking Metrics for marketing ROI  
@@ -166,12 +190,32 @@ By incorporating real-time metrics and intuitive visuals, this project becomes a
 
 ---
 
-## 📊 Dashboard Preview
+## <span id="conclusion">🔚 Conclusion</span>  
 
-### 🖼️ PNG Version  
+This **Motorola Sales Dashboard** bridges the gap between raw sales data and strategic decision-making. With a clean and interactive layout, it offers a full-circle view of operations — from product performance and customer sentiment to regional trends and transaction insights.
+
+By incorporating real-time metrics and intuitive visuals, this project becomes a critical tool for sales optimization, campaign targeting, and customer-focused growth.
+
+---
+
+## <span id="contact">📬 Connect with Me</span>  
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="project-overview">🖼️ Project Overview</span>     
+
+### 🖼️ Final Dashboard
 ![Motorola Sales Dashboard Analysis](Motorola%20Sale%20Dashboard%20Analysis.png)
 
-### 🖼️ JPEG Version  
+### 🖼️ Project Preview
+  
 ![Motorola Sales Dashboard Analysis](Motorola%20Sales%20Dashboard%20Analysis.png)
 
 ---
